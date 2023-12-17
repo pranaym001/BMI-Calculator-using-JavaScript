@@ -1,1 +1,1 @@
-# BMI-Calculator-using-JavaScript
+# BMI
